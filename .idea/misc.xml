@@ -3,10 +3,4 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="FLOW" />
   </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="eros" />
-  </component>
-  <component name="TypeScriptCompiler">
-    <option name="isCompilerEnabled" value="true" />
-  </component>
 </project>
