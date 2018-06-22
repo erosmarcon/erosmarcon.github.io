@@ -2,99 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32e5c70e-bb91-459f-8cd8-58928f4d005b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/calling-code/callingcode-regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/calling-code/callingcode-regular-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/open-sans/open-sans-v13-latin-600.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/open-sans/open-sans-v13-latin-600.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/open-sans/open-sans-v13-latin-700.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/open-sans/open-sans-v13-latin-700.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/open-sans/open-sans-v13-latin-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/open-sans/open-sans-v13-latin-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/animation-128px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/animation-48px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/asset-animation-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/asset-delete-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/asset-folder-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/asset-material-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/asset-model-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/asset-script-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/asset-sound-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/asset-texture-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/browse-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/checkmark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/component-animation-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/component-body-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/component-camera-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/component-light-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/component-mesh-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/component-script-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/delete-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/delete-red-8px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/delete-white-8px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/down-chevron-xsmall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/edit-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/edit-clear-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/edit-redo-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/edit-undo-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-asset-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-box-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-capsule-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-copy-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-cylinder-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-delete-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-disable-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-duplicate-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-empty-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-enable.-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-focus-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-paste-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-plane-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/entity-sphere-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/folder-128px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/folder-48px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/folder-72px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/folder-red-128px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/grip-horizontal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/grip-vertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/js-128px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/js-48px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/left-chevron-xsmall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/link-dark-8px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/material-thumb-32px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/minus-8px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/move-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/plus-8px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/plus-dark-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/plus-dark-8px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/project-new-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/project-new-hover-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/project-open-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/project-preferences-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/project-save-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/right-chevron-xsmall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/rotate-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/scale-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/select-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/tree-branches.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/tree-folders.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/up-chevron-xsmall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/view-back-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/view-bottom-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/view-front-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/view-left-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/view-perspective-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/view-right-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/view-split-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/view-top-12px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo_med.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/icons/animation-128px.png" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/a66aa625d4531c018c14b0a95bb3b640.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/icons/folder-128px.png" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/926046d7dcda4d7c9c19a6c5c143a9fa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/icons/folder-red-128px.png" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/7835f5744557a388a3a8f939bec9eb5c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/icons/js-128px.png" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/5237930611b3d01b97119c2b6c9ca6f2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/icons/spinner-1s-48px.gif" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/bbba4258635adbb1307ce978660c1413.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.css" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.js" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -157,8 +65,8 @@
     <handled-path value="$PROJECT_DIR$/nirvana-js/studio/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
-    <option name="y" value="302" />
+    <option name="x" value="315" />
+    <option name="y" value="464" />
     <option name="width" value="2317" />
     <option name="height" value="1255" />
   </component>
@@ -268,25 +176,25 @@
       <updated>1529580160152</updated>
       <workItem from="1529580162040" duration="1318000" />
       <workItem from="1529668513532" duration="4976000" />
-      <workItem from="1529676757305" duration="2006000" />
+      <workItem from="1529676757305" duration="2239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8300000" />
+    <option name="totallyTimeSpent" value="8533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="302" width="2317" height="1255" extended-state="0" />
+    <frame x="315" y="464" width="2317" height="1255" extended-state="0" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />

@@ -1193,7 +1193,7 @@ li.CodeMirror-hint-active {
 /*submenu*/
 #menubar .menu .options .submenu {
   color: #999999;
-  background: transparent url("/assets/icons/right-chevron-xsmall.png") no-repeat 132px 8px;
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAANiAAADYgBgtNgwQAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAABoSURBVBiVjY0xEoJAEAR7CXicof7A4MbQhJDI4gvq7CMI5XlndFUgBnTYNTUdtVYAMnMAekkTQPMdWx62z2sRbRkR2L4BL+BUSll2D5LewB34ZOb1X2LH8YTtAXgCF0lL87+JUdK8Fl9pGSk9PRwHrQAAAABJRU5ErkJggg==) no-repeat 132px 8px;
   padding: 5px 10px 5px 10px;
   margin: 0;
   border-top: 1px solid #555555;
