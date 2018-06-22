@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32e5c70e-bb91-459f-8cd8-58928f4d005b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.js" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.js" />
-    </list>
+    <list default="true" id="32e5c70e-bb91-459f-8cd8-58928f4d005b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -173,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1529580160152</updated>
       <workItem from="1529580162040" duration="1318000" />
-      <workItem from="1529668513532" duration="1495000" />
+      <workItem from="1529668513532" duration="1676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2813000" />
+    <option name="totallyTimeSpent" value="2994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="268" y="34" width="2317" height="1255" extended-state="0" />
