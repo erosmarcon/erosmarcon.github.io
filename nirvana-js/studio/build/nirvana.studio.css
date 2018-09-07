@@ -2385,5 +2385,24 @@ li.CodeMirror-hint-active {
   text-align: center;
   color: #BCFF00;
   padding-top: 80px; }
+.history-view {
+  padding: 12px; }
+  .history-view .history-view-item {
+    border: solid 1px #666666;
+    border-bottom: none;
+    padding: 4px 8px;
+    background-color: #333333;
+    /*cursor: pointer;*/
+    font-size: 10px; }
+  .history-view .history-view-empty {
+    color: #999999;
+    /*cursor: pointer;*/
+    font-size: 10px; }
+  .history-view .history-view-item-undo {
+    color: #CCCCCC; }
+  .history-view .history-view-item-redo {
+    color: #666666; }
+  .history-view .history-view-item:last-child {
+    border-bottom: solid 1px #666666; }
 
 /*# sourceMappingURL=nirvana.studio.css.map*/
