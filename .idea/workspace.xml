@@ -37,8 +37,8 @@
       <file leaf-file-name="nirvana.studio.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="98" column="21" lean-forward="false" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+            <state relative-caret-position="234">
+              <caret line="97" column="25" lean-forward="false" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -84,9 +84,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/nirvana-js/studio/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="552" />
-    <option name="y" value="169" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="305" />
+    <option name="y" value="139" />
     <option name="width" value="1866" />
     <option name="height" value="1209" />
   </component>
@@ -124,36 +124,6 @@
               <item name="erosmarcon.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="nirvana-js" type="462c0819:PsiDirectoryNode" />
               <item name="studio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="erosmarcon.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="erosmarcon.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="nirvana-js" type="462c0819:PsiDirectoryNode" />
-              <item name="studio" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="erosmarcon.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="erosmarcon.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="nirvana-js" type="462c0819:PsiDirectoryNode" />
-              <item name="studio" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="erosmarcon.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="erosmarcon.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="nirvana-js" type="462c0819:PsiDirectoryNode" />
-              <item name="studio" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="erosmarcon.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="erosmarcon.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="nirvana-js" type="462c0819:PsiDirectoryNode" />
-              <item name="studio" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="nirvana.studio.css" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -277,15 +247,15 @@
       <workItem from="1540567837215" duration="797000" />
       <workItem from="1540802660559" duration="1059000" />
       <workItem from="1540887852149" duration="482000" />
-      <workItem from="1540974769371" duration="1037000" />
+      <workItem from="1540974769371" duration="1986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59777000" />
+    <option name="totallyTimeSpent" value="60726000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="552" y="169" width="1866" height="1209" extended-state="0" />
+    <frame x="305" y="139" width="1866" height="1209" extended-state="1" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34363145" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -666,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="98" column="21" lean-forward="false" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+        <state relative-caret-position="234">
+          <caret line="97" column="25" lean-forward="false" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
           <folding />
         </state>
       </provider>
