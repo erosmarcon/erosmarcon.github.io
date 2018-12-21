@@ -1728,6 +1728,7 @@ li.CodeMirror-hint-active {
   border-top: 1px solid #333333; }
 
 .inspector .folder-preview {
+  margin-top: 6px;
   border: 1px solid #666666;
   height: 168px;
   margin-left: 10px;
@@ -1736,6 +1737,7 @@ li.CodeMirror-hint-active {
   background: #333333 url(926046d7dcda4d7c9c19a6c5c143a9fa.png) no-repeat center; }
 
 .inspector .folder-root-preview {
+  margin-top: 6px;
   border: 1px solid #666666;
   height: 168px;
   margin-left: 10px;
@@ -1744,6 +1746,7 @@ li.CodeMirror-hint-active {
   background: #333333 url(92754f4f0f8bcf7ddd31c3276dce6c9e.png) no-repeat center; }
 
 .inspector .animation-preview {
+  margin-top: 6px;
   border: 1px solid #666666;
   height: 168px;
   margin-left: 10px;
@@ -1752,6 +1755,7 @@ li.CodeMirror-hint-active {
   background: #333333 url(a66aa625d4531c018c14b0a95bb3b640.png) no-repeat center; }
 
 .inspector .script-preview {
+  margin-top: 6px;
   border: 1px solid #666666;
   height: 168px;
   margin-left: 10px;
@@ -1760,6 +1764,7 @@ li.CodeMirror-hint-active {
   background: #333333 url(5237930611b3d01b97119c2b6c9ca6f2.png) no-repeat center; }
 
 .inspector .sound-preview {
+  margin-top: 6px;
   border: 1px solid #666666;
   height: 168px;
   margin-left: 10px;
@@ -1773,6 +1778,7 @@ li.CodeMirror-hint-active {
   height: 168px !important; }
 
 .inspector .material-preview {
+  margin-top: 6px;
   border: 1px solid #666666;
   height: 168px;
   margin-left: 10px;
@@ -1785,6 +1791,7 @@ li.CodeMirror-hint-active {
     margin-top: 20px; }
 
 .inspector .model-preview {
+  margin-top: 6px;
   border: 1px solid #666666;
   height: 168px;
   margin-left: 10px;
@@ -1798,6 +1805,7 @@ li.CodeMirror-hint-active {
     margin-top: 10px; }
 
 .inspector .texture-preview {
+  margin-top: 6px;
   border: 1px solid #666666;
   height: 168px;
   margin-left: 10px;
@@ -2028,6 +2036,23 @@ li.CodeMirror-hint-active {
   .inspector .edit-btn .text:hover {
     border: 1px solid #BCFF00;
     background-color: #bcff00; }
+
+.inspector .reset-btn {
+  margin: 10px;
+  box-shadow: 1px 1px #222222; }
+  .inspector .reset-btn .text {
+    display: block;
+    color: #FFFFFF;
+    margin: auto;
+    padding: 4px 5px 4px 8px;
+    font-family: 'callingcode-bold', Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    cursor: pointer;
+    background: rgba(51, 51, 51, 0.6) url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAANrwAADa8BQr/nKgAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAADYSURBVCiRjY8tTgNhEIafaTb8qOqtAFOzAoFt0gM0pKKeC+BBc4AeoBcgvUJPgCYBQVLTgECDakHwIDoky2Y34U1GzPs+830z0CJ1qk7bsjZ4pn5nzZp5NOAKuANe0joFLiPiuWvgGDgErtJaAJ8Rsf1lij/f7YOtepT9e3Ol3r8Oq6no8HedE2qpDmv9SF1njWr+UC0L4Bp4VZfAHDgHbpNbqA/ADXABnIR6D7wBB8ATMI+Ij3y1n/AZ8AUMUDfutVLLjpVXyWx6wBiYAI9A1XJmldkEGP8Aabt6Ir6dtjgAAAAASUVORK5CYII=) no-repeat right 8px center;
+    border: 1px solid #666666; }
+  .inspector .reset-btn .text:hover {
+    border: 1px solid #666666;
+    background-color: #333333; }
 
 .inspector .remove-btn {
   margin: 10px;

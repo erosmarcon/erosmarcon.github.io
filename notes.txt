@@ -1,5 +1,0 @@
-https://jekyllrb.com/docs/step-by-step/01-setup/
-
-https://webdesign.tutsplus.com/tutorials/how-to-set-up-a-jekyll-theme--cms-26332
-
-https://colorlib.com/wp/template/klift/
