@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32e5c70e-bb91-459f-8cd8-58928f4d005b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nirvana-js/studio/assets/icons/hierarchy-12px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nirvana-js/studio/assets/icons/history-12px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nirvana-js/studio/assets/icons/scenes-12px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nirvana-js/studio/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.css" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.js" afterPath="$PROJECT_DIR$/nirvana-js/studio/build/nirvana.studio.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notes.txt" afterPath="$PROJECT_DIR$/notes.txt" />
-    </list>
+    <list default="true" id="32e5c70e-bb91-459f-8cd8-58928f4d005b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -85,8 +76,8 @@
     <handled-path value="$PROJECT_DIR$/nirvana-js/studio/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="777" />
-    <option name="y" value="135" />
+    <option name="x" value="556" />
+    <option name="y" value="75" />
     <option name="width" value="2392" />
     <option name="height" value="1270" />
   </component>
@@ -279,15 +270,15 @@
       <workItem from="1543826281527" duration="668000" />
       <workItem from="1543848278653" duration="547000" />
       <workItem from="1543912003281" duration="374000" />
-      <workItem from="1545394270209" duration="131000" />
+      <workItem from="1545394270209" duration="829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91404000" />
+    <option name="totallyTimeSpent" value="92102000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="777" y="135" width="2392" height="1270" extended-state="0" />
+    <frame x="556" y="75" width="2392" height="1270" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293617" sideWeight="0.4915989" order="10" side_tool="false" content_ui="tabs" />
@@ -297,7 +288,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.426383" sideWeight="0.49346268" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.426383" sideWeight="0.49346268" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
