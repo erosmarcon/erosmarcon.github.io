@@ -2717,6 +2717,34 @@ li.CodeMirror-hint-active {
   margin: 0;
   overflow: hidden;
   box-sizing: border-box; }
+  .viewport .paused {
+    visibility: hidden;
+    text-align: center;
+    background-color: #FF0000;
+    width: 60px;
+    padding: 4px;
+    color: #FFFFFF;
+    position: relative;
+    top: calc(-100% + 2px);
+    left: calc(100% - 72px);
+    font-family: 'callingcode-bold', Arial, Helvetica, sans-serif;
+    animation: none; }
+  .viewport .playing {
+    visibility: hidden;
+    text-align: center;
+    background-color: #FF0000;
+    width: 60px;
+    padding: 4px;
+    color: #FFFFFF;
+    position: relative;
+    top: calc(-100% + 2px);
+    left: calc(100% - 72px);
+    font-family: 'callingcode-bold', Arial, Helvetica, sans-serif;
+    animation: blinker 1.5s linear infinite; }
+
+@keyframes blinker {
+  50% {
+    opacity: 0; } }
   .viewport .camera-viewport {
     position: relative;
     top: calc(-100% + 10px);
